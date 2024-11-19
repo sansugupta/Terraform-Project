@@ -1,8 +1,4 @@
 ---
-title: Linux User Management Implementation
-
----
-
 # AWS IAM User & Group Management with Terraform
 
 ## 🎯 Project Overview
